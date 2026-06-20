@@ -1,0 +1,14 @@
+Category,Line_Item,Budget,Actual
+Revenue,Product Sales,500000,487000
+Revenue,Service Revenue,150000,162000
+Revenue,Subscription Revenue,80000,78500
+Revenue,Other Revenue,20000,19200
+COGS,Direct Materials,180000,194000
+COGS,Direct Labor,90000,88500
+COGS,Manufacturing Overhead,45000,47200
+OpEx,Sales & Marketing,75000,82000
+OpEx,Research & Development,60000,57500
+OpEx,General & Administrative,40000,41800
+OpEx,Technology & Infrastructure,25000,23100
+OpEx,Human Resources,20000,20400
+OpEx,Legal & Compliance,15000,12000

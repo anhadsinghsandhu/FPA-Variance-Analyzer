@@ -1,0 +1,10 @@
+Category,Line_Item,Budget,Actual
+COGS,Cost of Sales - Products,44030.0,49179.0
+COGS,Cost of Sales - Services,6462.0,7224.0
+OpEx,Research & Development,8550.0,11419.0
+OpEx,SG&A,6728.0,7477.0
+Revenue,iPhone,46841.0,56994.0
+Revenue,Mac,7949.0,8399.0
+Revenue,iPad,6402.0,6914.0
+Revenue,"Wearables, Home & Accessories",7522.0,7901.0
+Revenue,Services,26645.0,30976.0
